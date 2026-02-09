@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  chat_bubbles: ^1.8.0
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -65,14 +65,7 @@ flutter:
   # https://flutter.dev/to/resolution-aware-images
   assets:
     - assets/images/
-    - assets/images/Camera.png
-    - assets/images/Mic.png
-    - assets/images/Phone.png
-    - assets/images/Send.png
-    - assets/images/background_image.png
-    - assets/images/profile_image.jpg
-    - assets/images/route_image.jpg
-    - assets/images/video.png
+
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/to/asset-from-package
 
